@@ -1,44 +1,36 @@
 {
   "ramens": [
     {
-      "id": 1,
-      "name": "Shoyu Ramen",
-      "restaurant": "Nonono",
-      "image": "./assets/ramen/shoyu.jpg",
-      "rating": 7,
-      "comment": "Delish. Can't go wrong with a classic!"
-    },
-    {
       "id": 2,
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
-      "rating": 10,
-      "comment": "My absolute fave!"
+      "rating": "8",
+      "comment": "oops"
     },
     {
       "id": 3,
       "name": "Nirvana Shiromaru",
       "restaurant": "Ippudo",
       "image": "./assets/ramen/nirvana.jpg",
-      "rating": "7",
-      "comment": "Do buy the hype."
+      "rating": "10",
+      "comment": "oops again!"
     },
     {
       "id": 4,
       "name": "Gyukotsu Ramen",
       "restaurant": "Za-Ya Ramen",
       "image": "./assets/ramen/gyukotsu.jpg",
-      "rating": 8,
-      "comment": "Good to the last drop."
+      "rating": "6",
+      "comment": "and again"
     },
     {
-      "id": 5,
-      "name": "Kojiro Red Ramen",
-      "restaurant": "Ramen-Ya",
-      "image": "./assets/ramen/kojiro.jpg",
-      "rating": 6,
-      "comment": "Perfect for a cold night."
+      "name": "Tonkotsu Ramen",
+      "restaurant": "Ramen Jinya Bar",
+      "image": "https://z5r3u2r9.stackpathcdn.com/cms/wp-content/uploads/2020/02/jrb_ramen_tonkotsu-black_22_01_5_rgb-800x800-1-600x600.jpg",
+      "rating": "",
+      "comment": "",
+      "id": 5
     }
   ]
 }
